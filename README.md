@@ -15,5 +15,5 @@ validation data: 2493
 
 ## 🎥 Detection Demo
 <p align="center">
-  <img src="1-flood-demo" width="100%"/>
+  <img src="1-flood-demo.gif" width="100%"/>
 </p>
