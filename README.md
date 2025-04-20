@@ -12,3 +12,8 @@ Collision
 train data: 9970
 validation data: 2493
 🧮 Total: 12,463 images
+
+## 🎥 Detection Demo
+<p align="center">
+  <img src="1-flood-demo" width="100%"/>
+</p>
